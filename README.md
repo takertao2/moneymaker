@@ -1,4 +1,4 @@
-## Honeymaker
+## Moneymaker
 
 A small bot that calls the Honeyswap SushiMaker contract periodically. Read more [here](https://github.com/1Hive/honeyswap/blob/master/HONEYMAKER.md).
 
